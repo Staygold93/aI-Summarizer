@@ -1,2 +1,2 @@
 # aI-Summarizer
-AI-Summarizer
+AI-Summarizer Using React redux and Vite with Rapid Api's
