@@ -1,2 +1,3 @@
 # aI-Summarizer
-AI-Summarizer Using React redux and Vite with Rapid Api's
+Simplify your reading with Summize, an open-source article summarizer
+that transforms lengthy articles into clear and concise summaries
