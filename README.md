@@ -8,6 +8,15 @@ As a busy commuter i want to be able to effieciently read important long article
 ## Demo Link 
 https://646008c60aa7bd1144dd14b4--clever-croissant-527cbd.netlify.app/
 
+## Tech used
+
+* node.js
+* react
+* react-redux
+* vite
+* tailwind css
+
+
 
 ## Screenshots of Demo
 ![image](https://user-images.githubusercontent.com/112224915/235833499-7841fabb-d89f-418a-a06a-84a6e157e309.png)
