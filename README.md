@@ -14,6 +14,9 @@ https://646008c60aa7bd1144dd14b4--clever-croissant-527cbd.netlify.app/
 
 ![image](https://github.com/Staygold93/aI-Summarizer/assets/112224915/431c90cf-a32a-432d-846d-d74145edb7f5)
 
+![image](https://github.com/Staygold93/aI-Summarizer/assets/112224915/835a64db-4d0f-410c-b62c-f21e3030fd49)
+
+
 
 ## Developer 
 Aldo Perez
